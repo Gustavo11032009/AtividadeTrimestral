@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Diagnostics.Eventing.Reader;
 
 class Program
@@ -79,7 +79,7 @@ class Program
 
         Paciente novo = new Paciente { Nome = nome, Idade = idade, Preferencial = pref };
 
-        if (pref) // Coloca na frente dos não preferenciais
+        if (pref) 
         {
             for (int i = quantidade; i > 0; i--)
             {

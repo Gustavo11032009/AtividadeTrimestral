@@ -1,0 +1,7 @@
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\bin\Debug\AtividadeTeste.exe.config
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\bin\Debug\AtividadeTeste.exe
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\bin\Debug\AtividadeTeste.pdb
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\obj\Debug\AtividadeTeste.csproj.AssemblyReference.cache
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\obj\Debug\AtividadeTeste.csproj.CoreCompileInputs.cache
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\obj\Debug\AtividadeTeste.exe
+C:\Users\lab3130\source\repos\AtividadeTeste\AtividadeTeste\obj\Debug\AtividadeTeste.pdb
